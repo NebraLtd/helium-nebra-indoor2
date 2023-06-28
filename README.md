@@ -1,3 +1,5 @@
+![Helium Nebra_Indoor2 Repo Header](https://cdn.shopify.com/s/files/1/0071/2281/3001/files/Nebra-Github-Repo-Header-Nebra-Indoor-2.png?v=1687963035)
+
 # helium-nebra-indoor2
 Nebra OpenFleet for Nebra ROCK Pi (Second Generation) Indoor Miners
 
